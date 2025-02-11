@@ -1,6 +1,7 @@
 # LLM-Powered Chatbot for "Neural Networks: Zero to Hero"
 
 This project aims to build an interactive chatbot powered by Large Language Models (LLMs) that can answer questions related to Andrej Karpathy's "Neural Networks: Zero to Hero" YouTube lecture series. The chatbot will be trained on the lecture content(audio transcript and code), allowing users to engage with the material in a conversational manner.
+(This project's website has already received over 100 unique visitors! Wow!) 
 
 ## Initial Thoughts and Approach
 
